@@ -1,2 +1,5 @@
-# virtual-internships
-Виртуальные стажировки shift changellenge
+# Виртуальные стажировки от Shift Changellenge
+
+МТС
+ВТБ
+Альфа Банк
